@@ -11,7 +11,7 @@ namespace Programms
 
         public string AcceptString()
         {
-            Console.WriteLine("Enter string");
+            Console.WriteLine("Enter string minor changes");
             string str = Console.ReadLine();
             return str;
         }
